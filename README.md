@@ -41,8 +41,8 @@ This is a **frontend-only demonstration** project. No real payments are processe
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd upi-clone
+   git clone https://github.com/Chetan11223/UPI-clone.git
+   cd UPI-clone
    ```
 
 2. **Install dependencies**
